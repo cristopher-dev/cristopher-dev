@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, I'm cristopher martinez</h1>
 
-<a target="_blank" href="https://www.stefanosst.gr"><img src="./assets/github-img.jpg"/></a>
+<a target="_blank" href="https://www.stefanosst.gr"><img src="./assets/github-img.png"/></a>
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
