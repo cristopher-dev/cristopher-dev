@@ -52,9 +52,10 @@
   <h3><b>Let's get in touch! </b></h3>
   </div>
 <p align="center">
-<a href="www.linkedin.com/in/cristopher-dev" target="_blank">
+<a href="www.linkedin.com/in/cristopher-dev" target="_blank" rel="noopener noreferrer">
   <img align="center" alt="cristopher martinez | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a>  
+</a>
+
 <p>
 <p align="center">
   <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
